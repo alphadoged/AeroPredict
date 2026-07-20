@@ -24,17 +24,7 @@ A premium, SaaS-grade Weather & AI Companion Dashboard built with **React**, **V
 
 Since Git may not be added to your current shell PATH inside the editor, you should run the following commands in your **local system terminal (PowerShell, Command Prompt, or Git Bash)** or use **VS Code's Source Control panel** to push this project.
 
-### Step 1: Initialize Git & Stage Files
-Navigate to the project directory in your terminal and run:
-```bash
-# Initialize a local Git repository
-git init
 
-# Stage all files (this uses the configured .gitignore to skip node_modules/logs)
-git add .
-
-# Create the initial commit
-git commit -m "feat: humanize weather metrics & prepare repo for GitHub"
 ```
 
 ### Step 2: Create a GitHub Repository
