@@ -20,33 +20,6 @@ A premium, SaaS-grade Weather & AI Companion Dashboard built with **React**, **V
 
 ---
 
-## Getting Ready to Push to GitHub
-
-Since Git may not be added to your current shell PATH inside the editor, you should run the following commands in your **local system terminal (PowerShell, Command Prompt, or Git Bash)** or use **VS Code's Source Control panel** to push this project.
-
-
-```
-
-### Step 2: Create a GitHub Repository
-1. Go to your GitHub account and click **New Repository**.
-2. Name it (e.g., `weather-predictive-dashboard`).
-3. Leave it **Public** or **Private**, and **DO NOT** check any checkboxes for adding a README, .gitignore, or license (since we already have them).
-4. Click **Create repository**.
-
-### Step 3: Link & Push to GitHub
-Copy the commands displayed on GitHub under "or push an existing repository from the command line" and run them in your local terminal:
-```bash
-# Rename the default branch to main
-git branch -M main
-
-# Link your local repository to GitHub (replace with your actual URL)
-git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-
-# Push your code to GitHub
-git push -u origin main
-```
-
----
 
 ## Installation & Local Development Setup
 
